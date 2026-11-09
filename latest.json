@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.3.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.1/Noopy-0.3.1.dmg",
-  "sha256": "e396f711fe1d4df1ef30cc9f5d6f9bb3523945f0b4b52a5d09b7560303f1a556",
-  "bytes": 209644587,
+  "version": "0.3.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.2/Noopy-0.3.2.dmg",
+  "sha256": "528d96b26c1430b48624ef19385c817347894804a3e675f4ca0035688ff22460",
+  "bytes": 209645435,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-09",
-  "notes": "First public build: Arc-style command bar, split by dropping a tab on a tab, self-cleaning folders, Archived Tabs page, one-click capture, Touch ID before password fill, address and form-history import."
+  "notes": "Teddy icon on every dialog and update prompt."
 }
