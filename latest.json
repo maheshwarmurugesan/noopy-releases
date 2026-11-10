@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.4.2",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.2/Noopy-0.4.2.dmg",
-  "sha256": "43f5d32748cb33143237f8e7326712e3370b610d8f13628e2fc643fe1de6fd5b",
-  "bytes": 210915775,
+  "version": "0.4.3",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.3/Noopy-0.4.3.dmg",
+  "sha256": "35e72e551fe13cf435aecbdb546cdabc599b050db22d6b856ed8c1ee098d3ce4",
+  "bytes": 210369401,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-10",
-  "notes": "Compact Favorites (drag the grid's bottom edge to shrink tiles and add columns) and verification codes from your Gmail offered right at the code field."
+  "notes": "Verification codes from Gmail even with no Gmail tab open, Outlook codes, faster typed navigations, lighter ad-block storage per Space, and a batch of sidebar and split fixes."
 }
