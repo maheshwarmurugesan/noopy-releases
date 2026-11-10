@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.3.6",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.6/Noopy-0.3.6.dmg",
-  "sha256": "359ac62cb4549011c2364d14cbae1c693cf195e1e79cba09353fb75db57b925a",
-  "bytes": 209609796,
+  "version": "0.4.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.0/Noopy-0.4.0.dmg",
+  "sha256": "05919f90e2fff90150c65b5874500bffdb6b45d6d93561d8ffaf87db6b6218ea",
+  "bytes": 209049617,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-09",
-  "notes": "Icons for more sites; teddy on the update prompt."
+  "notes": "Pixel launch intro with music; update and capture hardening."
 }
