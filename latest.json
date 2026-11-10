@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.3.4",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.4/Noopy-0.3.4.dmg",
-  "sha256": "302512720607f04aa1ea0659bafd56986bfda927d19d434e06ba834ffc771785",
-  "bytes": 209614343,
+  "version": "0.3.5",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.5/Noopy-0.3.5.dmg",
+  "sha256": "560fdbf83604c39dd9beccdbda8b6233148b8f2d1c0ff5dcb300208c7c6d9022",
+  "bytes": 208053453,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-09",
-  "notes": "Saved passwords fill without a Touch ID prompt."
+  "notes": "Faster launch with many Spaces (profiles load on demand); Esc closes popovers."
 }
