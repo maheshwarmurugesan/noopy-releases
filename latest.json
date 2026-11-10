@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.4.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.1/Noopy-0.4.1.dmg",
-  "sha256": "4e18d03a3d22d92176996cd238fb3ad9f5c1dc17e60ed87d2d8e9693099734c8",
-  "bytes": 210777072,
+  "version": "0.4.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.2/Noopy-0.4.2.dmg",
+  "sha256": "43f5d32748cb33143237f8e7326712e3370b610d8f13628e2fc643fe1de6fd5b",
+  "bytes": 210915775,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-10",
-  "notes": "Speed update: faster tab switching and Space switching with many Spaces, smoother scrolling on battery, lighter launch. Nothing removed; cache, sign-ins and history untouched."
+  "notes": "Compact Favorites (drag the grid's bottom edge to shrink tiles and add columns) and verification codes from your Gmail offered right at the code field."
 }
