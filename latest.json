@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.4.3",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.3/Noopy-0.4.3.dmg",
-  "sha256": "35e72e551fe13cf435aecbdb546cdabc599b050db22d6b856ed8c1ee098d3ce4",
-  "bytes": 210369401,
+  "version": "0.4.4",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.4/Noopy-0.4.4.dmg",
+  "sha256": "1c1a3bf566bfdc8ef6afe5fb40886a21893c73729f95d6679445d2817f571073",
+  "bytes": 209066773,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-10",
-  "notes": "Verification codes from Gmail even with no Gmail tab open, Outlook codes, faster typed navigations, lighter ad-block storage per Space, and a batch of sidebar and split fixes."
+  "notes": "Faster with many Spaces: tab switches about 4x quicker, Space switches up to 7x, lighter launch and page loads. Intro title cursor now follows the letters. Nothing removed, cache and sign-ins untouched."
 }
