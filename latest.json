@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.3.3",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.3/Noopy-0.3.3.dmg",
-  "sha256": "c56cdac8a205e1d6877b081a8f56fd5ae0e4df49a297aa26df6fe644b28f77f4",
-  "bytes": 208059256,
+  "version": "0.3.4",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.4/Noopy-0.3.4.dmg",
+  "sha256": "302512720607f04aa1ea0659bafd56986bfda927d19d434e06ba834ffc771785",
+  "bytes": 209614343,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-09",
-  "notes": "Site Controls closes when the command bar opens, folder menu works while renaming, Unpin Group stays in view, unsplit keeps tab order."
+  "notes": "Saved passwords fill without a Touch ID prompt."
 }
