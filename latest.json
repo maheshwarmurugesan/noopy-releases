@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.3.5",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.5/Noopy-0.3.5.dmg",
-  "sha256": "560fdbf83604c39dd9beccdbda8b6233148b8f2d1c0ff5dcb300208c7c6d9022",
-  "bytes": 208053453,
+  "version": "0.3.6",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.3.6/Noopy-0.3.6.dmg",
+  "sha256": "359ac62cb4549011c2364d14cbae1c693cf195e1e79cba09353fb75db57b925a",
+  "bytes": 209609796,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-09",
-  "notes": "Faster launch with many Spaces (profiles load on demand); Esc closes popovers."
+  "notes": "Icons for more sites; teddy on the update prompt."
 }
