@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.5.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.1/Noopy-0.5.1.dmg",
-  "sha256": "40b99df2c1642b97cd09a4865e14ce5df53a5b471f512c4244d6eefb97f06e7a",
-  "bytes": 210592937,
+  "version": "0.5.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.2/Noopy-0.5.2.dmg",
+  "sha256": "00bd4b113e4cef00b432d1df3e9dde84868417b4cd049f6f4e489829312114da",
+  "bytes": 210623245,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Simpler Noopy assistant: tiny teddy in the sidebar, one box, settings in General. Screen sharing picker now has Tab, Window and Entire Screen choices and opens on the one the site asks for."
+  "notes": "Ask Noopy is now the first row in Site Controls: one click turns the assistant on and opens it."
 }
