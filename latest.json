@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.5.2",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.2/Noopy-0.5.2.dmg",
-  "sha256": "00bd4b113e4cef00b432d1df3e9dde84868417b4cd049f6f4e489829312114da",
-  "bytes": 210623245,
+  "version": "0.6.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.0/Noopy-0.6.0.dmg",
+  "sha256": "a3db1b41e201256389033115831c8b1f9e4efbee46a349b09ca3bcb51110b9f3",
+  "bytes": 210727477,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy is now the first row in Site Controls: one click turns the assistant on and opens it."
+  "notes": "Ask Noopy can now act on the page: click, press and hold, type, scroll, drag and repeat on a timer, with a Stop button. It asks before buying, sending or deleting."
 }
