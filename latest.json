@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.6.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.1/Noopy-0.6.1.dmg",
-  "sha256": "2b14d0718d35b7dacee348fd6461b39e3e9da6546c94c8a6b3e42275d9a8ff95",
-  "bytes": 210728609,
+  "version": "0.6.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.2/Noopy-0.6.2.dmg",
+  "sha256": "690977cf2b380b3166d96fc5cb1cf0ac702b7484b99d87ba06baeea89298c6fb",
+  "bytes": 209400805,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy uses Claude Code with Sonnet on low effort when Claude Code is signed in on this Mac."
+  "notes": "Ask Noopy now sees the page correctly, clicks where it means to, checks its work before saying done, batches steps for speed, and no longer asks before harmless buttons like Start. Return answers its questions."
 }
