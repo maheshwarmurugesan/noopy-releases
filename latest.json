@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.4.5",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.5/Noopy-0.4.5.dmg",
-  "sha256": "4a1fd77a5f2e281ee12d13cd6e92ef79d53c12cf019c7a8b4ca399b1ebce033f",
-  "bytes": 209902898,
+  "version": "0.4.6",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.6/Noopy-0.4.6.dmg",
+  "sha256": "71fad48892fd493f9ad0d6cb2752a295cdceb0774b71b1761d4f1796b58970b0",
+  "bytes": 209907651,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-10",
-  "notes": "Imports no longer create empty Spaces. Pick which inboxes Noopy checks for verification codes. Site icon lookups now follow HTTPS-only and Secure DNS. Smoother sidebar after long Space jumps, lighter new-tab work, and a stray empty window is gone."
+  "notes": "Leftover hidden windows are gone. Escape closes Site Controls from any pane. Site icon lookups stay on the site you are on. Cleaner automatic folder names and lighter work when opening tabs."
 }
