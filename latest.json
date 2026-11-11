@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.6.2",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.2/Noopy-0.6.2.dmg",
-  "sha256": "690977cf2b380b3166d96fc5cb1cf0ac702b7484b99d87ba06baeea89298c6fb",
-  "bytes": 209400805,
+  "version": "0.6.3",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.3/Noopy-0.6.3.dmg",
+  "sha256": "f3e1228719f4e3cb06b6aae98a413331945579b8c15938212066495f0e4a0381",
+  "bytes": 210731376,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy now sees the page correctly, clicks where it means to, checks its work before saying done, batches steps for speed, and no longer asks before harmless buttons like Start. Return answers its questions."
+  "notes": "Ask Noopy plays chess and other games for real now: it notices when nothing changed, keeps the target on screen, and says it couldn't confirm instead of claiming success."
 }
