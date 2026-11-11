@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.6.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.0/Noopy-0.6.0.dmg",
-  "sha256": "a3db1b41e201256389033115831c8b1f9e4efbee46a349b09ca3bcb51110b9f3",
-  "bytes": 210727477,
+  "version": "0.6.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.1/Noopy-0.6.1.dmg",
+  "sha256": "2b14d0718d35b7dacee348fd6461b39e3e9da6546c94c8a6b3e42275d9a8ff95",
+  "bytes": 210728609,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy can now act on the page: click, press and hold, type, scroll, drag and repeat on a timer, with a Stop button. It asks before buying, sending or deleting."
+  "notes": "Ask Noopy uses Claude Code with Sonnet on low effort when Claude Code is signed in on this Mac."
 }
