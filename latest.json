@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.4.6",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.4.6/Noopy-0.4.6.dmg",
-  "sha256": "71fad48892fd493f9ad0d6cb2752a295cdceb0774b71b1761d4f1796b58970b0",
-  "bytes": 209907651,
+  "version": "0.5.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.0/Noopy-0.5.0.dmg",
+  "sha256": "015a26e40de00515e79d18c7c40374157728a00e002c32342a9057ea2372c611",
+  "bytes": 210591203,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-10",
-  "notes": "Leftover hidden windows are gone. Escape closes Site Controls from any pane. Site icon lookups stay on the site you are on. Cleaner automatic folder names and lighter work when opening tabs."
+  "publishedAt": "2026-11-11",
+  "notes": "New: Noopy assistant (off by default) fills forms from your instruction using a model on your Mac, your Claude Code or Codex app, or an API key; you review before anything is filled. New: Block adult content switch. Safer email codes, HTTPS-only by default, verified update downloads."
 }
