@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.5.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.0/Noopy-0.5.0.dmg",
-  "sha256": "015a26e40de00515e79d18c7c40374157728a00e002c32342a9057ea2372c611",
-  "bytes": 210591203,
+  "version": "0.5.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.5.1/Noopy-0.5.1.dmg",
+  "sha256": "40b99df2c1642b97cd09a4865e14ce5df53a5b471f512c4244d6eefb97f06e7a",
+  "bytes": 210592937,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "New: Noopy assistant (off by default) fills forms from your instruction using a model on your Mac, your Claude Code or Codex app, or an API key; you review before anything is filled. New: Block adult content switch. Safer email codes, HTTPS-only by default, verified update downloads."
+  "notes": "Simpler Noopy assistant: tiny teddy in the sidebar, one box, settings in General. Screen sharing picker now has Tab, Window and Entire Screen choices and opens on the one the site asks for."
 }
