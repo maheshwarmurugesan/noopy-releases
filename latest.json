@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.7",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.7/Noopy-0.7.7.dmg",
-  "sha256": "a8f9ddd667bcb77363460a5fff99bf3e404947582d338733939fc0b2653b66f3",
-  "bytes": 209883588,
+  "version": "0.7.8",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.8/Noopy-0.7.8.dmg",
+  "sha256": "9d9d832a51aabc3ec4426f7fd5f6188bc8b855aa6a62da375dcd3aec20e5630f",
+  "bytes": 210802883,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: gets past game lobbies, waits for slow screens, poker wins a hand, timed games report Done"
+  "notes": "Ask Noopy: reads the screenshot first, steadier waits, chess board scrolled into view, arithmetic handles repeat problems"
 }
