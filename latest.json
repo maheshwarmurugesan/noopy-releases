@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.8.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.1/Noopy-0.8.1.dmg",
-  "sha256": "e9108fc1fbf3c4f84d89a90a2079f11ece18ecc5fbea9ececd77a4ff3935599c",
-  "bytes": 212641921,
+  "version": "0.8.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.2/Noopy-0.8.2.dmg",
+  "sha256": "97aab05e129a57174eb6cdce29de92a5ac05a48fb8446e63c835670a0cac3888",
+  "bytes": 212642813,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: answers questions, bear shows what it's doing, side panel with live steps, highlighted controlled tabs, new opener"
+  "notes": "Ask Noopy: bear walks to each step, plain-English progress per tab, one side panel, fixes task clearing on start"
 }
