@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.3",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.3/Noopy-0.7.3.dmg",
-  "sha256": "2e8253326238b3da21af3be98d45f69e6ed16292ec90ff3664acb332cc1f5ef4",
-  "bytes": 210760027,
+  "version": "0.7.4",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.4/Noopy-0.7.4.dmg",
+  "sha256": "065d2d96a3d1dc0e4a7f59a9f3e6918aa60da6a27884117fc5b0b4e96253b092",
+  "bytes": 210771507,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: glass pane, accurate clicks in small panes, stops when stuck, per-task usage count"
+  "notes": "Ask Noopy: every planned pane starts, no false Done, waits between poker hands, arithmetic without per-question calls"
 }
