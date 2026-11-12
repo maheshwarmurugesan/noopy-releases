@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.6",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.6/Noopy-0.7.6.dmg",
-  "sha256": "760a9153198e323c73160dc0dcccac56569bf33f845167cdf2263294c1ce329c",
-  "bytes": 210802376,
+  "version": "0.7.7",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.7/Noopy-0.7.7.dmg",
+  "sha256": "a8f9ddd667bcb77363460a5fff99bf3e404947582d338733939fc0b2653b66f3",
+  "bytes": 209883588,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy plays chess with local Stockfish: whole game in one step, no Claude calls per move"
+  "notes": "Ask Noopy: gets past game lobbies, waits for slow screens, poker wins a hand, timed games report Done"
 }
