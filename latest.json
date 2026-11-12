@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.2",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.2/Noopy-0.7.2.dmg",
-  "sha256": "0336d045514a8213e339e23f5b0c98e4facb8767ee1822583db27dedd351b156",
-  "bytes": 210759111,
+  "version": "0.7.3",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.3/Noopy-0.7.3.dmg",
+  "sha256": "2e8253326238b3da21af3be98d45f69e6ed16292ec90ff3664acb332cc1f5ef4",
+  "bytes": 210760027,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy keeps split panes running when you click between them, asks before clicking ads or links to other sites, plays chess.com, and can be started, watched and stopped from AppleScript."
+  "publishedAt": "2026-11-12",
+  "notes": "Ask Noopy: glass pane, accurate clicks in small panes, stops when stuck, per-task usage count"
 }
