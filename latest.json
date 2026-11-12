@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.4",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.4/Noopy-0.7.4.dmg",
-  "sha256": "065d2d96a3d1dc0e4a7f59a9f3e6918aa60da6a27884117fc5b0b4e96253b092",
-  "bytes": 210771507,
+  "version": "0.7.5",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.5/Noopy-0.7.5.dmg",
+  "sha256": "7a210b670a38b29788dfbbb4fa3175ad2121cc8d2a6f1d9fc4058b8039997912",
+  "bytes": 210772435,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: every planned pane starts, no false Done, waits between poker hands, arithmetic without per-question calls"
+  "notes": "Ask Noopy: call budget per task, panel no longer covers panes, chess waits for opponent, poker plays to win"
 }
