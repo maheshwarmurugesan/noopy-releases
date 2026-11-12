@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.8.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.0/Noopy-0.8.0.dmg",
-  "sha256": "661b71bd3db09c109e58dd1b074e0a9ebf3668fc3cd58a9bc09946afa21fa0e3",
-  "bytes": 212053512,
+  "version": "0.8.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.1/Noopy-0.8.1.dmg",
+  "sha256": "e9108fc1fbf3c4f84d89a90a2079f11ece18ecc5fbea9ececd77a4ff3935599c",
+  "bytes": 212641921,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Chromium 157; Ask Noopy shows plan usage per task, recent prompts, Run Again; Dock icon stays the same after quit"
+  "notes": "Ask Noopy: answers questions, bear shows what it's doing, side panel with live steps, highlighted controlled tabs, new opener"
 }
