@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.9",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.9/Noopy-0.7.9.dmg",
-  "sha256": "8adff1b8ac68db96df594a5d86da34712370bec240b47206be3f3b8eb377a313",
-  "bytes": 210809935,
+  "version": "0.8.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.0/Noopy-0.8.0.dmg",
+  "sha256": "661b71bd3db09c109e58dd1b074e0a9ebf3668fc3cd58a9bc09946afa21fa0e3",
+  "bytes": 212053512,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ad blocker covers site icons; Ask Noopy clicks map and SVG quizzes"
+  "notes": "Chromium 157; Ask Noopy shows plan usage per task, recent prompts, Run Again; Dock icon stays the same after quit"
 }
