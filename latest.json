@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.8.4",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.8.4/Noopy-0.8.4.dmg",
-  "sha256": "554ae48b0b4ac6b48aa7b2c37f153ad63f41c01e467bbc9e1e41584f21d6bd6d",
-  "bytes": 212599645,
+  "version": "0.9.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.0/Noopy-0.9.0.dmg",
+  "sha256": "1807f5ffc51cff507fafb9371d3bf131d4effe5720fd44cd2bcd0efa0450593a",
+  "bytes": 212316981,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Pixel hills on History and New Tab, Noopy Blocked page, clearer Noopy tab badges"
+  "notes": "Talk to Noopy with a teddy voice; pixel scenes (Day/Evening/Night/Auto) that react to your cursor; faster Ask Noopy start; pixel Noopy panel; Blocked page for all adult sites; Safe Browsing key support; chess engine only vs bots"
 }
