@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.6.3",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.6.3/Noopy-0.6.3.dmg",
-  "sha256": "f3e1228719f4e3cb06b6aae98a413331945579b8c15938212066495f0e4a0381",
-  "bytes": 210731376,
+  "version": "0.7.0",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.0/Noopy-0.7.0.dmg",
+  "sha256": "feae089d43f4d5bfb50050f07045344f03e4ec7a066413f1cef53592f978e696",
+  "bytes": 209801353,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy plays chess and other games for real now: it notices when nothing changed, keeps the target on screen, and says it couldn't confirm instead of claiming success."
+  "notes": "Ask Noopy can now control Noopy itself: find your tabs (pinned too), make split views, and run tasks in several tabs at once with Stop all. Choose This Tab or All of Noopy, and pick Claude Code, Codex, a model on this Mac or an API key right in the Ask box."
 }
