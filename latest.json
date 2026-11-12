@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.5",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.5/Noopy-0.7.5.dmg",
-  "sha256": "7a210b670a38b29788dfbbb4fa3175ad2121cc8d2a6f1d9fc4058b8039997912",
-  "bytes": 210772435,
+  "version": "0.7.6",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.6/Noopy-0.7.6.dmg",
+  "sha256": "760a9153198e323c73160dc0dcccac56569bf33f845167cdf2263294c1ce329c",
+  "bytes": 210802376,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: call budget per task, panel no longer covers panes, chess waits for opponent, poker plays to win"
+  "notes": "Ask Noopy plays chess with local Stockfish: whole game in one step, no Claude calls per move"
 }
