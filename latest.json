@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.8",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.8/Noopy-0.7.8.dmg",
-  "sha256": "9d9d832a51aabc3ec4426f7fd5f6188bc8b855aa6a62da375dcd3aec20e5630f",
-  "bytes": 210802883,
+  "version": "0.7.9",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.9/Noopy-0.7.9.dmg",
+  "sha256": "8adff1b8ac68db96df594a5d86da34712370bec240b47206be3f3b8eb377a313",
+  "bytes": 210809935,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Ask Noopy: reads the screenshot first, steadier waits, chess board scrolled into view, arithmetic handles repeat problems"
+  "notes": "Ad blocker covers site icons; Ask Noopy clicks map and SVG quizzes"
 }
