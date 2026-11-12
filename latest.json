@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.1",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.1/Noopy-0.7.1.dmg",
-  "sha256": "0b0967e6eb0eb6cee6ec864e7bf5a3dd1eedc9a119eefacb64333658facb639e",
-  "bytes": 210729674,
+  "version": "0.7.2",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.2/Noopy-0.7.2.dmg",
+  "sha256": "0336d045514a8213e339e23f5b0c98e4facb8767ee1822583db27dedd351b156",
+  "bytes": 210759111,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy plays chess by square and reads the board as text: it beat the easiest computer in a 3-way split. Waits for slow games to load."
+  "notes": "Ask Noopy keeps split panes running when you click between them, asks before clicking ads or links to other sites, plays chess.com, and can be started, watched and stopped from AppleScript."
 }
