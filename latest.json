@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.7.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.0/Noopy-0.7.0.dmg",
-  "sha256": "feae089d43f4d5bfb50050f07045344f03e4ec7a066413f1cef53592f978e696",
-  "bytes": 209801353,
+  "version": "0.7.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.7.1/Noopy-0.7.1.dmg",
+  "sha256": "0b0967e6eb0eb6cee6ec864e7bf5a3dd1eedc9a119eefacb64333658facb639e",
+  "bytes": 210729674,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-11",
-  "notes": "Ask Noopy can now control Noopy itself: find your tabs (pinned too), make split views, and run tasks in several tabs at once with Stop all. Choose This Tab or All of Noopy, and pick Claude Code, Codex, a model on this Mac or an API key right in the Ask box."
+  "notes": "Ask Noopy plays chess by square and reads the board as text: it beat the easiest computer in a 3-way split. Waits for slow games to load."
 }
