@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.10",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.10/Noopy-0.9.10.dmg",
-  "sha256": "c5bdec3329380afb7810cf73578f8af1a6d04e7fe7a3653bdf988ecdb0a07d67",
-  "bytes": 212834323,
+  "version": "0.9.11",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.11/Noopy-0.9.11.dmg",
+  "sha256": "152f31a9880c6126a75125e852da90c463f4ce944fafeea63326f9cd9c0cb6ea",
+  "bytes": 211660631,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Signed update feed; safer Ask Noopy (asks before risky clicks in any language, sensitive sites, cross-tab copying, daily cap); stricter chess guard"
+  "notes": "Detailed pixel sun, clouds, moon, stars and sunsets; pixel search bar; updates install with progress and clear errors; no false 'can't save session' on quit"
 }
