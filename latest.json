@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.2",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.2/Noopy-0.9.2.dmg",
-  "sha256": "ecfa9cfba13303e6f9ffcb2049baa13932430200ef6d1ceeebca497afecfe88b",
-  "bytes": 212376144,
+  "version": "0.9.3",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.3/Noopy-0.9.3.dmg",
+  "sha256": "261f96755548b2ac32917b30ce3dbb99d72ff1e21c6bfc900459613275e8e0b6",
+  "bytes": 210793197,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-12",
-  "notes": "Pixel scene in the sidebar with drifting clouds and twinkling stars; brighter sky in light mode"
+  "publishedAt": "2026-11-13",
+  "notes": "Sidebar bear walks the hills and does little activities; Automatic scene follows the time of day from sunrise to night"
 }
