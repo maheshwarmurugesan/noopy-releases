@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.3",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.3/Noopy-0.9.3.dmg",
-  "sha256": "261f96755548b2ac32917b30ce3dbb99d72ff1e21c6bfc900459613275e8e0b6",
-  "bytes": 210793197,
+  "version": "0.9.4",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.4/Noopy-0.9.4.dmg",
+  "sha256": "8d50e38807d6becd2e10248f3d7b6b692708362b9beae7a23908dfeadd1848f9",
+  "bytes": 211091728,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Sidebar bear walks the hills and does little activities; Automatic scene follows the time of day from sunrise to night"
+  "notes": "Bear always busy with outfits per activity, reacts to your cursor; still landscape; Ask Noopy writes a full final answer and keeps notes"
 }
