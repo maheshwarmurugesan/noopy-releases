@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.5",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.5/Noopy-0.9.5.dmg",
-  "sha256": "840b4dc64d23fe5203da809d2b686fb101d6c8aa59a8fb69fb579c61e2d2c5c3",
-  "bytes": 212410827,
+  "version": "0.9.6",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.6/Noopy-0.9.6.dmg",
+  "sha256": "5180dacef07fde7b1e94325845ee28c3852538c745f6e1923f19de2fd111985c",
+  "bytes": 212408360,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Ask Noopy task tracker: answers with copy, notes, per-tab rows you can click, results history; working tabs glow in the sidebar"
+  "notes": "Ask Noopy works in background tabs; live request count; tidier results"
 }
