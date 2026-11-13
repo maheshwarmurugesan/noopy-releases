@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.8",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.8/Noopy-0.9.8.dmg",
-  "sha256": "94d4c2dd5324ef7ab128dba5b36a8ab787baf31013649a70bb7203fe7fc63aa3",
-  "bytes": 210852269,
+  "version": "0.9.9",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.9/Noopy-0.9.9.dmg",
+  "sha256": "05f8fbe5f0e60de29e47596448300c3f599d64385d0834e16cd91a0e55a0b61f",
+  "bytes": 210811936,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Real day sky with sun, night sky with moon; one Noopy bear everywhere; talk with Noopy (mic, conversation, voice settings); Check for Updates in Settings and an Update ready pill"
+  "notes": "Smooth sky: clean blue day, warm sunset, no stripes"
 }
