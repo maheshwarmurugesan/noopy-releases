@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.11",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.11/Noopy-0.9.11.dmg",
-  "sha256": "152f31a9880c6126a75125e852da90c463f4ce944fafeea63326f9cd9c0cb6ea",
-  "bytes": 211660631,
+  "version": "0.9.12",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.12/Noopy-0.9.12.dmg",
+  "sha256": "ee3e0884a9a195bc47aec62037f27b7aa3d1107095da7ced990234881b3ab365",
+  "bytes": 213434027,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Detailed pixel sun, clouds, moon, stars and sunsets; pixel search bar; updates install with progress and clear errors; no false 'can't save session' on quit"
+  "notes": "Connect AI (Claude Code, Codex or Anthropic key), one-click Quick setup with import, opt-in MCP server"
 }
