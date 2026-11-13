@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.0/Noopy-0.9.0.dmg",
-  "sha256": "1807f5ffc51cff507fafb9371d3bf131d4effe5720fd44cd2bcd0efa0450593a",
-  "bytes": 212316981,
+  "version": "0.9.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.1/Noopy-0.9.1.dmg",
+  "sha256": "79f0c29b5d0b3da610822e65da5e8f0b7dc00e5b135d3e94bc55c791c1896891",
+  "bytes": 212317238,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-12",
-  "notes": "Talk to Noopy with a teddy voice; pixel scenes (Day/Evening/Night/Auto) that react to your cursor; faster Ask Noopy start; pixel Noopy panel; Blocked page for all adult sites; Safe Browsing key support; chess engine only vs bots"
+  "notes": "Google key is used only for Safe Browsing (optimization guide off)"
 }
