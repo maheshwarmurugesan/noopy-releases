@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.6",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.6/Noopy-0.9.6.dmg",
-  "sha256": "5180dacef07fde7b1e94325845ee28c3852538c745f6e1923f19de2fd111985c",
-  "bytes": 212408360,
+  "version": "0.9.7",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.7/Noopy-0.9.7.dmg",
+  "sha256": "a578768163acb5f74c56882ed7241ffbadece44565fc3849555b06dbd46a6b4f",
+  "bytes": 209649180,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Ask Noopy works in background tabs; live request count; tidier results"
+  "notes": "Daytime sky in Dark mode; pause button for the pixel scene; hidden tabs reload quietly; noopy status shows answers; Check for Updates always responds; blocked pages keep their address"
 }
