@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.4",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.4/Noopy-0.9.4.dmg",
-  "sha256": "8d50e38807d6becd2e10248f3d7b6b692708362b9beae7a23908dfeadd1848f9",
-  "bytes": 211091728,
+  "version": "0.9.5",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.5/Noopy-0.9.5.dmg",
+  "sha256": "840b4dc64d23fe5203da809d2b686fb101d6c8aa59a8fb69fb579c61e2d2c5c3",
+  "bytes": 212410827,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Bear always busy with outfits per activity, reacts to your cursor; still landscape; Ask Noopy writes a full final answer and keeps notes"
+  "notes": "Ask Noopy task tracker: answers with copy, notes, per-tab rows you can click, results history; working tabs glow in the sidebar"
 }
