@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.7",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.7/Noopy-0.9.7.dmg",
-  "sha256": "a578768163acb5f74c56882ed7241ffbadece44565fc3849555b06dbd46a6b4f",
-  "bytes": 209649180,
+  "version": "0.9.8",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.8/Noopy-0.9.8.dmg",
+  "sha256": "94d4c2dd5324ef7ab128dba5b36a8ab787baf31013649a70bb7203fe7fc63aa3",
+  "bytes": 210852269,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-13",
-  "notes": "Daytime sky in Dark mode; pause button for the pixel scene; hidden tabs reload quietly; noopy status shows answers; Check for Updates always responds; blocked pages keep their address"
+  "notes": "Real day sky with sun, night sky with moon; one Noopy bear everywhere; talk with Noopy (mic, conversation, voice settings); Check for Updates in Settings and an Update ready pill"
 }
