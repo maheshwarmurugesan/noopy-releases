@@ -14,7 +14,7 @@ Spaces, favorites, splits and a command bar — on its own Chromium engine, with
 
 ![Noopy demo](noopy-demo-preview.gif)
 
-<sub><a href="https://github.com/maheshwarmurugesan/noopy-releases/releases/download/demo/noopy-demo.mp4">Watch the 61-second film with sound</a></sub>
+<sub><a href="https://github.com/maheshwarmurugesan/noopy-releases/releases/download/demo/noopy-demo.mp4">Watch the 66-second film</a></sub>
 
 </div>
 
