@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.13",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.13/Noopy-0.9.13.dmg",
-  "sha256": "0f350def4b5d3f34ce59cbbf803755352fa77a2c4870ede1a891251feaaeead4",
-  "bytes": 213434816,
+  "version": "0.9.14",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.14/Noopy-0.9.14.dmg",
+  "sha256": "6f65508a16fe7b54e64f78143717f3e65a23df2930ff313aeee5110c93012ad2",
+  "bytes": 212935871,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-14",
-  "notes": "Noopy 0.9.13: Ask Noopy lands on what it found and shows a clear answer card; Settings plan-usage text fixed."
+  "notes": "Noopy 0.9.14: first notarized build. Same features as 0.9.13."
 }
