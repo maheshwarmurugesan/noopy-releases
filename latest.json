@@ -4,12 +4,12 @@
   "notarized": false,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.12",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.12/Noopy-0.9.12.dmg",
-  "sha256": "ee3e0884a9a195bc47aec62037f27b7aa3d1107095da7ced990234881b3ab365",
-  "bytes": 213434027,
+  "version": "0.9.13",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.13/Noopy-0.9.13.dmg",
+  "sha256": "0f350def4b5d3f34ce59cbbf803755352fa77a2c4870ede1a891251feaaeead4",
+  "bytes": 213434816,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-13",
-  "notes": "Connect AI (Claude Code, Codex or Anthropic key), one-click Quick setup with import, opt-in MCP server"
+  "publishedAt": "2026-11-14",
+  "notes": "Noopy 0.9.13: Ask Noopy lands on what it found and shows a clear answer card; Settings plan-usage text fixed."
 }
