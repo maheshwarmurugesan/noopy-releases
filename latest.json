@@ -1,15 +1,15 @@
 {
   "status": "released",
   "signature": "developer-id",
-  "notarized": false,
+  "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.14",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.14/Noopy-0.9.14.dmg",
-  "sha256": "6f65508a16fe7b54e64f78143717f3e65a23df2930ff313aeee5110c93012ad2",
-  "bytes": 212935871,
+  "version": "0.9.15",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.15/Noopy-0.9.15.dmg",
+  "sha256": "0a7f6ca16e440aace3ae7b18fb38bb9d040f394b173ef9d89678bf7116ecccaf",
+  "bytes": 213437025,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-14",
-  "notes": "Noopy 0.9.14: first notarized build. Same features as 0.9.13."
+  "notes": "Noopy 0.9.15: first notarized build. Clearer Ask Noopy answers; Settings text fix."
 }
