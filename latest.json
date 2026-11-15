@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.15",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.15/Noopy-0.9.15.dmg",
-  "sha256": "0a7f6ca16e440aace3ae7b18fb38bb9d040f394b173ef9d89678bf7116ecccaf",
-  "bytes": 213437025,
+  "version": "0.9.16",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.16/Noopy-0.9.16.dmg",
+  "sha256": "24ccfedeaff26450f07b2cbf8327bfd10cfee3dc5edd463687c6bfb9159acab6",
+  "bytes": 212938512,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-14",
-  "notes": "Noopy 0.9.15: first notarized build. Clearer Ask Noopy answers; Settings text fix."
+  "publishedAt": "2026-11-15",
+  "notes": "Email code prompt comes back after you check your inbox tab"
 }
