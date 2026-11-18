@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.17",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.17/Noopy-0.9.17.dmg",
-  "sha256": "7ef409fe9367e6bf456b071360900510c478b816d333638c499f874db50ecfa9",
-  "bytes": 213078645,
+  "version": "0.9.18",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.18/Noopy-0.9.18.dmg",
+  "sha256": "81c40405f3c6663dfd26accf15f966671c9640f00cb57e547539a2d2023e4c3b",
+  "bytes": 213490788,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-18",
-  "notes": "Verification codes now show up from Gmail's Updates tab (where most code mail lands) and from Messages texts. Messages needs Full Disk Access; the code popup offers a one-tap shortcut to grant it."
+  "notes": "Security hardening for code suggestions: text codes bound to a site reach only that site, a code used on one site is not offered to another, shared hosts are treated as separate sites, the prompt shows the sender's real domain, and Messages text is read with a safer decoder."
 }
