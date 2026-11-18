@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.16",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.16/Noopy-0.9.16.dmg",
-  "sha256": "24ccfedeaff26450f07b2cbf8327bfd10cfee3dc5edd463687c6bfb9159acab6",
-  "bytes": 212938512,
+  "version": "0.9.17",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.17/Noopy-0.9.17.dmg",
+  "sha256": "7ef409fe9367e6bf456b071360900510c478b816d333638c499f874db50ecfa9",
+  "bytes": 213078645,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-15",
-  "notes": "Email code prompt comes back after you check your inbox tab"
+  "publishedAt": "2026-11-18",
+  "notes": "Verification codes now show up from Gmail's Updates tab (where most code mail lands) and from Messages texts. Messages needs Full Disk Access; the code popup offers a one-tap shortcut to grant it."
 }
