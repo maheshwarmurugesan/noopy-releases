@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.18",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.18/Noopy-0.9.18.dmg",
-  "sha256": "81c40405f3c6663dfd26accf15f966671c9640f00cb57e547539a2d2023e4c3b",
-  "bytes": 213490788,
+  "version": "0.9.19",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.19/Noopy-0.9.19.dmg",
+  "sha256": "8a06816eed202dde2cba0e68a641153ad1f733e34cf2d8078ce5737afbda3495",
+  "bytes": 213490890,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-18",
-  "notes": "Security hardening for code suggestions: text codes bound to a site reach only that site, a code used on one site is not offered to another, shared hosts are treated as separate sites, the prompt shows the sender's real domain, and Messages text is read with a safer decoder."
+  "publishedAt": "2026-11-21",
+  "notes": "Fixes bursts of high CPU after Noopy has been open a long time."
 }
