@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.19",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.19/Noopy-0.9.19.dmg",
-  "sha256": "8a06816eed202dde2cba0e68a641153ad1f733e34cf2d8078ce5737afbda3495",
-  "bytes": 213490890,
+  "version": "0.9.20",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.20/Noopy-0.9.20.dmg",
+  "sha256": "0f4ee1c808b8ced912e80b761e5cfac106afbf2663e81fca10f351d875923b24",
+  "bytes": 212678355,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
   "publishedAt": "2026-11-21",
-  "notes": "Fixes bursts of high CPU after Noopy has been open a long time."
+  "notes": "Web cache is now capped at 256 MB (plus 128 MB for video), so Noopy stops growing on disk."
 }
