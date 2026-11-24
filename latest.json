@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.9.20",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.20/Noopy-0.9.20.dmg",
-  "sha256": "0f4ee1c808b8ced912e80b761e5cfac106afbf2663e81fca10f351d875923b24",
-  "bytes": 212678355,
+  "version": "0.9.21",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.9.21/Noopy-0.9.21.dmg",
+  "sha256": "d8488485e40e4478237e146d72f3b7ba0726ed3f5a9d11030c83725c0a3bb4fd",
+  "bytes": 212962925,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-21",
-  "notes": "Web cache is now capped at 256 MB (plus 128 MB for video), so Noopy stops growing on disk."
+  "publishedAt": "2026-11-24",
+  "notes": "Private tabs: open one from the arrow next to New Tab, File > New Private Tab, or Option-Shift-Command-N. Each private tab has its own cookies (sign in to several accounts at once), keeps no history and is erased when closed. Email codes now show on any site: the newest code from the last 3 minutes is offered even from a different domain. Text-message codes need Noopy turned on in System Settings > Privacy & Security > Full Disk Access."
 }
