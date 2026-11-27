@@ -4,12 +4,12 @@
   "notarized": true,
   "bundleIdentifier": "org.noopy.browser",
   "teamIdentifier": "7B2MDPZPW3",
-  "version": "0.10.0",
-  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.10.0/Noopy-0.10.0.dmg",
-  "sha256": "3b2b20bd55ef1e7e18ac873f1d06a8f2e9765021b560248f59e7e4a474ba1458",
-  "bytes": 212345519,
+  "version": "0.10.1",
+  "url": "https://github.com/maheshwarmurugesan/noopy-releases/releases/download/v0.10.1/Noopy-0.10.1.dmg",
+  "sha256": "7c8c9a3cdea7b9992ae99a475923abf3a5cfe241d7c6dcd53ddf131ab423bea3",
+  "bytes": 212345373,
   "architecture": "arm64",
   "minimumMacOS": "14.0",
-  "publishedAt": "2026-11-26",
-  "notes": "Ask Noopy grows up: saved chats and a side panel with page attachment and @ tabs, Read Only / Guard / Full Access modes, sign-in with your saved passwords without the AI seeing them, memory you can read and edit, scheduled routines, Summarize / Translate / Lasso shortcuts, research mode, Telegram remote control, and a working MCP server and command line."
+  "publishedAt": "2026-11-27",
+  "notes": "Noopy page links reuse the tab that is already open, and the Routines and Tools views are centred."
 }
